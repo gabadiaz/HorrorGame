@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+}
+
+#titlescreen{
+	background-color: yellow;
+	position: fixed;
+	top:0;
+	bottom: 0;
+	border-width: 50px;
+	border-color: green;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+}

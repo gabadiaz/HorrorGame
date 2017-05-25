@@ -1,0 +1,1 @@
+1. Tabbing out during fade out of title audio keeps current level going until you reenter tab at which it catches up to the time that has passed.
